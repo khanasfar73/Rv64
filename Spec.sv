@@ -1,7 +1,7 @@
 //Specification
 package Spec;
 
-parameter INST_LENGTH = 31;
+parameter INST_LENGTH = 63;
 
 typedef bit [INST_LENGTH:0] Instruction;
 
